@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-file-link",
+	"name": "Obsidian File Link",
+	"version": "0.1.0",
+	"minAppVersion": "0.12.0",
+	"description": "Quick and easy way to create a link to an external file in Obsidian",
+	"author": "dikti",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
